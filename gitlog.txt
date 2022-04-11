@@ -1,0 +1,41 @@
+commit f33187002a2c032bd39077e0c872be77381eedad
+Author: davepoppins5073 <101449950+davepoppins5073@users.noreply.github.com>
+Date:   Sun Apr 10 22:44:49 2022 -0400
+
+    Updating Jupyter lab notebooks both with more comments
+
+commit fafd4627f2e685479b48093d35736b145bac0478
+Author: davepoppins5073 <101449950+davepoppins5073@users.noreply.github.com>
+Date:   Sun Apr 10 22:20:35 2022 -0400
+
+    Updating Jupyter lab notebook adding comments and answers
+
+commit 0735f050348b096ce0e6a9e93cb1d8d011c64faa
+Author: davepoppins5073 <101449950+davepoppins5073@users.noreply.github.com>
+Date:   Sun Apr 10 19:09:27 2022 -0400
+
+    Updating Jupyter lab notebook added a whole other notebooks
+
+commit 091c5b128f444e61d68ee088dd41ae6d0ff70755
+Author: davepoppins5073 <101449950+davepoppins5073@users.noreply.github.com>
+Date:   Sun Apr 10 16:40:28 2022 -0400
+
+    Updating Jupyter lab notebook calc Arbitrage Profits
+
+commit 737152ca28fbda67cf5591061a2938663cb9e7fe
+Author: davepoppins5073 <101449950+davepoppins5073@users.noreply.github.com>
+Date:   Sun Apr 10 07:15:52 2022 -0400
+
+    Updating jupyter lab notebook
+
+commit b730fb90b29fa57a18025ed7290d89ac05570fd0
+Author: davepoppins5073 <101449950+davepoppins5073@users.noreply.github.com>
+Date:   Sun Apr 10 06:01:48 2022 -0400
+
+    Adding Files
+
+commit 012d9a6596e42934170252801304d082aea6cbd8
+Author: davepoppins5073 <101449950+davepoppins5073@users.noreply.github.com>
+Date:   Sun Apr 10 05:46:40 2022 -0400
+
+    Initial commit
