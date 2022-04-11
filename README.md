@@ -26,6 +26,8 @@ There isnt much to talk about here regarding usuage or tow provoide screen shots
 ### 1st thing
 We need a function that will pull in data from a csv or api and then clean, parse filter and format it to what we need. Doing this more than once is painful. 
 We would also need a function that will take care of all the plotting because  as well. it is an opportunity to increase efficiency and most importantly:
+> ..."
+> 
 <img width="650" alt="Screen Shot 2022-04-10 at 11 35 39 PM" src="https://user-images.githubusercontent.com/101449950/162663246-c53edea9-bc7a-4b77-9114-5cbd19b73a13.png">
 
 ### 2nd thing
